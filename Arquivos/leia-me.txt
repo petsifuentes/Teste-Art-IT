@@ -1,0 +1,25 @@
+As dependências foram todas adicionadas no arquivo pom.xml, porém se houver algum erro seguem abaixo quais foram usadas.
+
+<dependencies>
+  	<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+	<dependency>
+    	<groupId>org.seleniumhq.selenium</groupId>
+    	<artifactId>selenium-java</artifactId>
+    	<version>3.141.59</version>
+	</dependency>
+  	<!-- https://mvnrepository.com/artifact/junit/junit -->
+	<dependency>
+    	<groupId>junit</groupId>
+    	<artifactId>junit</artifactId>
+    	<version>4.12</version>
+    	<scope>test</scope>
+	</dependency>
+	<dependency>
+    	<groupId>commons-io</groupId>
+    	<artifactId>commons-io</artifactId>
+    	<version>2.6</version>
+	</dependency>
+  </dependencies>
+
+
+ O projeto foi criado no Eclipse, para executá-lo basta abrí-lo no Eclipese e executar a classe TesteCadastro que está no pacote testedeconhecimento no src/test/java
