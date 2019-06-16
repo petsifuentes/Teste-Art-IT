@@ -22,4 +22,6 @@ As dependências foram todas adicionadas no arquivo pom.xml, porém se houver al
   </dependencies>
 
 
- O projeto foi criado no Eclipse, para executá-lo basta abrí-lo no Eclipese e executar a classe TesteCadastro que está no pacote testedeconhecimento no src/test/java
+ O projeto foi criado no Eclipse, para executá-lo basta abrí-lo no Eclipese e executar a classe TesteCadastro que está no pacote testedeconhecimento no src/test/java.
+
+É necessário adaptar os caminhos do chromedriver.exe e da pasta de salvamento das screenshots. No códigos os caminhos são da minha máquina.
